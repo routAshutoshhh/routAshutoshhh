@@ -99,7 +99,7 @@
   <a href="https://www.linkedin.com/in/ashutosh-kumar-rout">
     <img src="https://www.svgrepo.com/show/134579/linkedin.svg" height="40px" alt="LinkedIn">
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/Ashutosh-Kumar-Rout">
+  <a href="https://github.com/routAshutoshhh">
     <img src="https://www.svgrepo.com/show/373623/git.svg" height="40px" alt="GitHub">
   </a>&nbsp;&nbsp;
 </div>
