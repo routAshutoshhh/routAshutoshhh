@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashutosh-Kumar-Rout&count_private=true&theme=radical&show_icons=true" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=routAshutoshhh&count_private=true&theme=radical&show_icons=true" width="400">
 </p>
 
 <div align="center">
@@ -36,7 +36,7 @@
 
 ### **Languages**  
 <div align="center">
-  <img src="https://www.svgrepo.com/show/303480/c-logo.svg" height="50px" alt="C">&nbsp;&nbsp;
+  <img src="https://www.svgrepo.com/show/303480/c-logo.svg" height="50px" alt="C++">&nbsp;&nbsp;
   <img src="https://www.svgrepo.com/show/349402/html5.svg" height="50px" alt="HTML5">&nbsp;&nbsp;
   <img src="https://www.svgrepo.com/show/349330/css3.svg" height="50px" alt="CSS3">&nbsp;&nbsp;
   <img src="https://www.svgrepo.com/show/349419/javascript.svg" height="50px" alt="JavaScript">&nbsp;&nbsp;
@@ -96,7 +96,7 @@
   <a href="mailto:ashutossshhh17@gmail.com">
     <img src="https://www.svgrepo.com/show/223047/gmail.svg" height="40px" alt="Gmail">
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ashutoshktrout">
+  <a href="https://www.linkedin.com/in/ashutoshkrout/">
     <img src="https://www.svgrepo.com/show/134579/linkedin.svg" height="40px" alt="LinkedIn">
   </a>&nbsp;&nbsp;
   <a href="https://github.com/routAshutoshhh">
