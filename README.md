@@ -96,7 +96,7 @@
   <a href="mailto:ashutossshhh17@gmail.com">
     <img src="https://www.svgrepo.com/show/223047/gmail.svg" height="40px" alt="Gmail">
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ashutosh-kumar-rout">
+  <a href="https://www.linkedin.com/in/ashutoshktrout">
     <img src="https://www.svgrepo.com/show/134579/linkedin.svg" height="40px" alt="LinkedIn">
   </a>&nbsp;&nbsp;
   <a href="https://github.com/routAshutoshhh">
